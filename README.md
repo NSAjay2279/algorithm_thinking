@@ -1,2 +1,2 @@
 # algorithm_thinking
-thinking in algorithms.
+thinking in algorithms on leetcode platform.
